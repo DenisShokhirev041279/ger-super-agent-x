@@ -1,0 +1,26 @@
+# Python
+  __pycache__/
+  *.py[cod]
+  *.egg-info/
+  .env
+  .venv/
+  venv/
+
+  # Streamlit
+  audio_output/
+
+  # Replit
+  .replit
+  replit.md
+  .local/
+  .upm/
+  .pythonlibs/
+  node_modules/
+  package-lock.json
+  uv.lock
+
+  # IDE
+  .vscode/
+  .idea/
+  *.swp
+  
